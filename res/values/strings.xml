@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VLSM Calulator</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="ip_address_hint">Network IP Address</string>
+    <string name="subnet_mask_hint">Network Subnet Mask</string>
+    <string name="submit_button_text">Subnet</string>
+    <string name="list_name_field">Group Name</string>
+    <string name="list_hosts_field"># Hosts</string>
+    <string name="hosts_field"># Hosts</string>
+
+</resources>
